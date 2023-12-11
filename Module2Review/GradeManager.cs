@@ -8,4 +8,8 @@ namespace Module2Review;
 internal class GradeManager
 {
     private List<Student> students;
+    public GradeManager()
+    {
+        students = new List<Student>();
+    }
 }

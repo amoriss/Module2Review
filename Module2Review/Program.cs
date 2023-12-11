@@ -23,12 +23,16 @@ internal class Program
         student1.AddGrade(96.4);
         student1.AddGrade(78.4, 90.0, 87.3);
         student2.AddGrade(87.9, 90.4, 97.2);
+        student2.AddGrade(91.3);
+        student3.AddGrade(83.4, 88.7);
         student3.AddGrade(70.5);
         student4.AddGrade(55.9, 72.5);
+        student4.AddGrade(77.8);
 
 
+        GradeManager gradeManager = new GradeManager();
 
-
+        
 
 
     }
