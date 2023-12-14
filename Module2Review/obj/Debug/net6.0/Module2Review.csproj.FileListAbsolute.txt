@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\bin\Debug\net6.0\Module2Review.exe
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\bin\Debug\net6.0\Module2Review.deps.json
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\bin\Debug\net6.0\Module2Review.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\bin\Debug\net6.0\Module2Review.dll
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\bin\Debug\net6.0\Module2Review.pdb
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.dll
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\refint\Module2Review.dll
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.pdb
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\Module2Review.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\Module2Review\Module2Review\obj\Debug\net6.0\ref\Module2Review.dll
